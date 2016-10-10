@@ -1,0 +1,246 @@
+<channels>
+<channel>
+<name>[B][COLOR green]The Last Ship - TEMPORADA 1 [/B][/COLOR] (10 Episódios)</name>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<fanart>http://www.ligadoemserie.com.br/wp-content/uploads/2014/06/TheLastShip-Destaque.jpg</fanart> 
+</subitem>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E01 - Phase Six [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s001.thevid.net/v/820a95be83be76f9b5db5f0395eb98f4.mp4?st=P6X6YmqB1vhZyi1Tqxv1IA</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E02 - Welcome to Gitmo [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s003.thevid.net/v/06425f09f3c4d0f71af282e5467781d2.mp4?st=67zeWMKrrQ9WNWIaztL2dg</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E03 - Dead Reckoning [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s004.thevid.net/v/477ac8bd00588cae12f1f246e5581a19.mp4?st=P5v6iRYAyazG1fmqZhN7-g</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E04 - We'll Get There [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s004.thevid.net/v/b7f94ad684f6d5d70b09c1044594eafd.mp4?st=aAjjvHbzmiIU529b-6Z4Xg</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E05 - El Toro [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s001.thevid.net/v/bf8bfead8136455a2f0057130cf2e3e5.mp4?st=VzSBvnIy6AtMiWp_r1mfgA</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E06 - Lockdown [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s004.thevid.net/v/cde0c968a0275db8e7d53f2153139e02.mp4?st=kQX_XtjTb6wax5gxcSb_Zg</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E07 - SOS [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s003.thevid.net/v/ec3af2bbd8eb2997be43fbf1f913d07b.mp4?st=6BbbgD-9PJeHpyJllzkPTg</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E08 - Two Sailors Walk Into a Bar... [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s004.thevid.net/v/dcf68d46c1d7c51ff07c3b11b837e67f.mp4?st=3tLRtXeAPL548bM8s8ANxA</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E09 - Trials [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s001.thevid.net/v/0da22c726e1fcf591ca4aa950586565c.mp4?st=W01eYu3QAzPxXfdUVhxS8A</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S01E10 - No Place Like Home [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://tinyurl.com/j5xl4m4</thumbnail>
+<link>http://s003.thevid.net/v/17f1ab11a164225d0f464b909c3a3f72.mp4?st=ye3GACqu8ttRfKWj5EcCZg</link>
+</item>
+
+
+<item> 
+</subchannel>
+</channel>
+<channel>
+<name>[B][COLOR green]The Last Ship - TEMPORADA 2 [/B][/COLOR] (13 Episódios)</name>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<fanart>http://www.ligadoemserie.com.br/wp-content/uploads/2014/06/TheLastShip-Destaque.jpg</fanart> 
+</subitem>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E01 - Unreal City [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s003.thevid.net/v/a6872aff317311a9f1f88568e6bcd063.mp4?st=SXhUMW4Jk13RBkchAUY2CQ</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E02 - Fight the Ship [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s004.thevid.net/v/17a5275170faa0d47ab5ab59fd3ed43d.mp4?st=-scxYcoXW8jn8HaqCV5vlw</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E03 - It's Not a Rumor [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s002.thevid.net/v/a67b5af431474e1547f15dbb0dd257fb.mp4?st=gxD7ASfeo7sKzXvVCf3Ebg</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E04 - Solace [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s001.thevid.net/v/a835e1e36615a3a2f19dfddbacfdc1eb.mp4?st=aQpDDQ3aCnZt36196slWOw</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E05 - Achilles [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s004.thevid.net/v/ea6636e871e7ca86e9e384b97d2edf1a.mp4?st=10UEAdJlRY6jW01BKS102w</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E06 - Long Day's Journey [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s001.thevid.net/v/b4268f7f09d4c944a06f0121d86d0004.mp4?st=Q8tZVK9AcLqyFRb6IhxzcQ</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E07 - Alone and Unafraid [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s001.thevid.net/v/30db4a20a181744c56cad26b983f5ff2.mp4?st=eejzo9R8mpp_vy7-jt0NEw</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E08 - Safe Zone [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s003.thevid.net/v/6e19906d64f18c8bc13ab8d1198d36d3.mp4?st=F64IBuFP_M8-1RvwmSo9rw</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E09 - Uneasy Lies the Head [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s003.thevid.net/v/efbb3c2e685b701a2331ae4c546f8643.mp4?st=IXQ24lH6Lp8SOMleOzQCkg</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E10 - Friendly Fire [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s004.thevid.net/v/9039a1b58a6908b1274afcf91129d10f.mp4?st=GrwIytFF8yz_ByRG6P10_A</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E11 - Valkyrie [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s003.thevid.net/v/dd5f9136c5a79c18517f7a3667f5b98c.mp4?st=WKwqewbzRZzw9U6pdiosHw</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E12 - Cry Havoc [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s001.thevid.net/v/a6372db72f202bead7df68ea505a646e.mp4?st=NvWhO4g7VP2U9MOdPrYdww</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S02E13 - A More Perfect Union [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://kabooooom.com/wp-content/uploads/2015/06/the-last-ship-season-2-poster.jpg</thumbnail>
+<link>http://s001.thevid.net/v/424aeab0cce6eb938ecb699e24708b7c.mp4?st=igKxe2GV5mx4_AgZ5W2qBw</link>
+</item>
+
+
+<item> 
+</subchannel>
+</channel>
+<channel>
+<name>[B][COLOR green]The Last Ship - TEMPORADA 3 [/B][/COLOR] (13 Episódios)</name>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<fanart>http://www.ligadoemserie.com.br/wp-content/uploads/2014/06/TheLastShip-Destaque.jpg</fanart> 
+</subitem>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E01 - The Scott Effect [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s001.thevid.net/v/406e76a5554d15d31093e87c8ea55aa9.mp4?st=xT6RI-oQ543o9GCe8vjq_A</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E02 - Rising Sun [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s002.thevid.net/v/003e650c774bb6d170a98e413e4d734d.mp4?st=01RxYzNy2xvMhStnY8Jtyg</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E03 - Shanzhai [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s004.thevid.net/v/b216b58afa121f05be7c010235c23a71.mp4?st=6EEyo4seAiv3Qb-eXo0JlA</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E04 - Devil May Care [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s004.thevid.net/v/489e9c0d9b0fce79bd35f74deeccfa67.mp4?st=F5aC87cTG9C3KHIatOCPYQ</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E05 - Minefield [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s001.thevid.net/v/f878ba0e8d23cba4853c08cb4cff7e03.mp4?st=ktladFoe4hbOvWszoTU8_A</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E06 - Dog Day [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s004.thevid.net/v/cc9a2ef3d8b28b1936c57ccd4bb9c067.mp4?st=U2d5Bg4uPkZR-foQMJfJKA</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E07 - In the Dark [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s004.thevid.net/v/92152f4410cafdb731f7e821e2b215be.mp4?st=qZRJrCjmLt3VvBn5o00aGw</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E08 - Sea Change [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s002.thevid.net/v/e28368fb7b763a69bf26d3232ed8bf55.mp4?st=WbItLC_UxgATZ7VjU02lDA</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E09 - Sea Change [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s001.thevid.net/v/a4872ae895dd68a9f4301b8a393f0e54.mp4?st=1M-7NFxOSRvRJ9lERjFIzA</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E10 - Scuttle [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link>http://s002.thevid.net/v/3720408e96d3fb211a9b17f73891b22e.mp4?st=UKWCkxXmF1ec3O35wyRJVw</link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E11 - Legacy [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link></link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E12 - Resistance [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link></link>
+</item>
+<item>   
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E13 - Don't Look Back [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
+<link></link>
+</item>
+
