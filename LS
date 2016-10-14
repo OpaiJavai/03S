@@ -229,18 +229,18 @@
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E11 - Legacy [/COLOR][/B]</title>
 <fanart></fanart>
 <thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
-<link></link>
+<link>http://akv001.thevid.net/v/c9d7ded30a4cfd3039a09e6655be85d9.mp4?st=ZynSHznxzs4fsMUqoxK9Iw</link>
 </item>
 <item>   
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E12 - Resistance [/COLOR][/B]</title>
 <fanart></fanart>
 <thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
-<link></link>
+<link>http://s002.thevid.net/v/d703501d355b8a30da27ef4230c90d20.mp4?st=UsV5qC3MdMdQeZEuttus8g</link>
 </item>
 <item>   
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] S03E13 - Don't Look Back [/COLOR][/B]</title>
 <fanart></fanart>
 <thumbnail>http://www.megaseriesonline.com/wp-content/uploads/2016/07/legendas_tv_20160614133925.jpg</thumbnail>
-<link></link>
+<link>http://s002.thevid.net/v/8c717c82a261ffd15297323b783f6f0d.mp4?st=JOpjaY0XsOOuhkII04MxPQ</link>
 </item>
 
